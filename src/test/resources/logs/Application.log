@@ -1,0 +1,746 @@
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+4    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+46785 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+74154 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+4    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+28208 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+34525 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+40615 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+7    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+23975 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+32884 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+37767 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+38464 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+38562 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+38870 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+38976 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+5    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+6806 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+20485 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+22727 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+22951 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+23054 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+23230 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+23364 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+375  [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+38   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+63304 [main] DEBUG devpinoyLogger  – Firefox Browser Launched!!!
+109243 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+115061 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+115752 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+116167 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+116280 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+117540 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+4    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+47323 [main] DEBUG devpinoyLogger  – Firefox Browser Launched!!!
+72436 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+92627 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+100732 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+101727 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+101819 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+103095 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+30   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+45680 [main] DEBUG devpinoyLogger  – Firefox Browser Launched!!!
+97777 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+117844 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+118785 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+119092 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+119174 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+120290 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+5    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+40329 [main] DEBUG devpinoyLogger  – Firefox Browser Launched!!!
+53881 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+58632 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+59237 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+59528 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+59557 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+63084 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+6    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+37269 [main] DEBUG devpinoyLogger  – Firefox Browser Launched!!!
+72451 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+78269 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+78899 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+79162 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+79195 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+80365 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+53   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+69187 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+89719 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+97321 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+98600 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+98708 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+99136 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+99244 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+31   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+9    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+5    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+40   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+38299 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+49860 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+86860 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+96372 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+97249 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+98319 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+98498 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+7    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+6    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+58271 [main] DEBUG devpinoyLogger  – Firefox Browser Launched!!!
+112240 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+142477 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+158102 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+165233 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+166800 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+167143 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+76   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+7    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+62441 [main] DEBUG devpinoyLogger  – Firefox Browser Launched!!!
+91497 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+99813 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+100490 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+100888 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+101297 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+102898 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+53   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+31769 [main] DEBUG devpinoyLogger  – Firefox Browser Launched!!!
+41868 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+8    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+22229 [main] DEBUG devpinoyLogger  – Firefox Browser Launched!!!
+33869 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+8    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+37929 [main] DEBUG devpinoyLogger  – Firefox Browser Launched!!!
+44987 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+9    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+29725 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+43291 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+23   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+39193 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+82152 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+4    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+6144 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+17321 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+7    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+4434 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+20609 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+6    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+4343 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+27494 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+7    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+4041 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+16255 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+6    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+3791 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+13271 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+7    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+4150 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+14883 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+20   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+14391 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+37520 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+50   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+38685 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+59843 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+13   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+31622 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+68020 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+12   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+6150 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+17234 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+9    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+6338 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+26992 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+31895 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+32544 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+32780 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+32964 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+33083 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+9    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+5162 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+24962 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+27999 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+28634 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+28795 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+29023 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+29147 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+94   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+12   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+60527 [main] DEBUG devpinoyLogger  – Firefox Browser Launched!!!
+85231 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+90879 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+91659 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+92009 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+92083 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+93106 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+9    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+52948 [main] DEBUG devpinoyLogger  – Firefox Browser Launched!!!
+65010 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+79997 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+82086 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+82361 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+82386 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+83566 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+29   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+29178 [main] DEBUG devpinoyLogger  – Firefox Browser Launched!!!
+58474 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+79518 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+80943 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+81388 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+81446 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+83543 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+9    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+53155 [main] DEBUG devpinoyLogger  – Firefox Browser Launched!!!
+71231 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+80947 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+81710 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+82098 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+82162 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+83402 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+6    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+19647 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+28235 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+31107 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+31535 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+31620 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+31759 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+31861 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+7    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+17357 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+33306 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+40812 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+44108 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+46724 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+47470 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+47571 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+8    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+6274 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+24081 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+27969 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+28148 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+28299 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+28464 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+28591 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+10   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+12604 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+31201 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+33794 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+34134 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+34266 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+34476 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+34565 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+58401 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+9    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+6169 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+17806 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+19506 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+19686 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+19784 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+19961 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+20065 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+42117 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+7    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+23584 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+50435 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+53930 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+55654 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+56133 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+56619 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+56695 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+144378 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+13   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+7070 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+18054 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+19764 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+20006 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+20139 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+20356 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+20588 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+42078 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+45337 [main] DEBUG devpinoyLogger  – Clicking on the element :CreateAccount_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+24   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+40503 [main] DEBUG devpinoyLogger  – Firefox Browser Launched!!!
+45927 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+50463 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+50842 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+51109 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+51149 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+53425 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+75317 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+9    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+10584 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+39762 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+42077 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+42269 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+42347 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+42599 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+42687 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+56351 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+58565 [main] DEBUG devpinoyLogger  – Clicking on the element :CreateAccount_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+10   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+27322 [main] DEBUG devpinoyLogger  – Firefox Browser Launched!!!
+32866 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+38233 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+40258 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+40518 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+40605 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+43041 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+66785 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+9    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+7    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+35795 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+74636 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+78809 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+79176 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+79260 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+79479 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+79555 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+101196 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+9    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+10   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+35   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+15569 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+21473 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+23988 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+24227 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+24326 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+26594 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+26668 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+53856 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+102  [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+26851 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+10   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+7871 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+16764 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+19042 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+19290 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+19622 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+21401 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+21451 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+39382 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+9    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+4054 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+12422 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+14011 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+14160 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+14244 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+14503 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+14632 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+35275 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+7    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+48634 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+55827 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+57794 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+57965 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+58036 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+58315 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+58416 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+88105 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+91848 [main] DEBUG devpinoyLogger  – Clicking on the element :CreateAccount_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+12   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+7688 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+16342 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+18161 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+18385 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+18510 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+18669 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+18741 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+43748 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+16   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+4852 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+13200 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+15022 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+15201 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+15298 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+15459 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+15547 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+27899 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+30426 [main] DEBUG devpinoyLogger  – Clicking on the element :CreateAccount_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+7    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+7578 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+13648 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+15156 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+15309 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+15386 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+15547 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+15634 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+26413 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+0    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+3418 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+10632 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+18118 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+18273 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+18346 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+18579 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+18636 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+26   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+15742 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+32980 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+35717 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+36076 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+36170 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+36352 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+36426 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+9    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+12574 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+25854 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+27579 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+27807 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+27944 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+28108 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+28174 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+67   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+13847 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+43200 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+46326 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+46725 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+46857 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+47073 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+47187 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+71145 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+16   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+5515 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+17787 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+20607 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+21412 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+21519 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+16   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+4849 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+20933 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+22809 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+23061 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+23191 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+0    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+4722 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+16466 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+18795 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+19017 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+19118 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+19750 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+19840 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+15   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+5866 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+30368 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+33722 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+34013 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+34133 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+34332 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+34466 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+15   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+26980 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+43502 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+46687 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+47089 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+47493 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+47723 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+47912 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+64190 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+7    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+38277 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+48683 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+51733 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+52099 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+52199 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+52368 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+52527 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+98569 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+32   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+28192 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+46141 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+49910 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+50465 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+50633 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+50825 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+50977 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+74893 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+8    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+0    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+15246 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+46344 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+51223 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+51511 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+51599 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+51751 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+51855 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+76112 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+1    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+45   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+22846 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+80832 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+83166 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+83580 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+84380 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+84503 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+85351 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+7    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+33152 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+73073 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+75564 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+76118 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+76221 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+76390 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+76460 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+113986 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+1    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+18   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+24271 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+31297 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+47257 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+47579 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+47705 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+47935 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+48030 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+76993 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+8    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+8110 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+28089 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+31988 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+32574 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+32763 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+33000 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+33074 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+7    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+4864 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+26899 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+29771 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+30138 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+30220 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+30412 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+30516 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+58717 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+17   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+20774 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+50052 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+52920 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+53618 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+53927 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+54101 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+54249 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+80549 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+17   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+19889 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+37909 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+63067 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+67732 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+67895 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+68280 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+68393 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+113713 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+1    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+7    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+43560 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+72659 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+75182 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+75898 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+76129 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+76359 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+76486 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+106492 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+46   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+9    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+23631 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+38239 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+43310 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+43771 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+43853 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+44011 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+44129 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+7    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+42064 [main] DEBUG devpinoyLogger  – Firefox Browser Launched!!!
+47134 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+58845 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+64441 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :buddy150515@gmail.com
+69107 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+69689 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Snigdha15
+70079 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+8    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+61354 [main] DEBUG devpinoyLogger  – Firefox Browser Launched!!!
+84325 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+102530 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+110165 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer2129@gmail.com
+111172 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+111379 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+111725 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+35   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+9    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+51976 [main] DEBUG devpinoyLogger  – Firefox Browser Launched!!!
+106030 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+136457 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+283  [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+36286 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+66289 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+69050 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+69666 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer211986@gmail.com
+69826 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+70234 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+70426 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+9    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+10692 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+31726 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+34679 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+35479 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer211986@gmail.com
+35751 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+36923 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+37058 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+67907 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+14   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+29143 [main] DEBUG devpinoyLogger  – Firefox Browser Launched!!!
+37379 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+39936 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+40554 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer211986@gmail.com
+40824 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+40869 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+44147 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+65009 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+9    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+0    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+27186 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+54558 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+58621 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+59408 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer211986@gmail.com
+59681 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+60977 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+61113 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+114999 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+16   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+11728 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+38064 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+40759 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+41051 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer211986@gmail.com
+41195 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+41475 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+41595 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+57293 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+0    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+5842 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+16681 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+20009 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+20418 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer211986@gmail.com
+20554 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+20810 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+20930 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+42715 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+46990 [main] DEBUG devpinoyLogger  – Clicking on the element :CreateAccount_CSS
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+8    [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+8204 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+14649 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+16529 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+16713 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer211986@gmail.com
+16801 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+17129 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+17265 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+40322 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+26   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+31   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+58044 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+68381 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+70998 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+71454 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer211986@gmail.com
+71566 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+71884 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+72032 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+98643 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
+104822 [main] DEBUG devpinoyLogger  – Clicking on the element :CreateAccount_CSS
+0    [main] DEBUG devpinoyLogger  – Config file loaded !!!
+11   [main] DEBUG devpinoyLogger  – Object Repository  file loaded !!!
+5989 [main] DEBUG devpinoyLogger  – Edge  Browser Launched!!!
+24365 [main] DEBUG devpinoyLogger  – Navigated to :  https://www.zoho.com
+25992 [main] DEBUG devpinoyLogger  – Clicking on the element :SignIn_XPATH
+26183 [main] DEBUG devpinoyLogger  – Typing in :Email_XPATHentering the value :trainer211986@gmail.com
+26258 [main] DEBUG devpinoyLogger  – Clicking on the element :Next_XPATH
+26478 [main] DEBUG devpinoyLogger  – Typing in :Password_XPATHentering the value :Seleniumtrainer
+26542 [main] DEBUG devpinoyLogger  – Clicking on the element :Next1_XPATH
+43227 [main] DEBUG devpinoyLogger  – Clicking on the element :clickonCRM_XPATH
