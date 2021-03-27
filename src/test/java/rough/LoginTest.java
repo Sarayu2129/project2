@@ -19,7 +19,7 @@ public class LoginTest {
 	
 
 	public static void main(String[] args) throws InterruptedException {
-		
+		//this is the runner file
 		
 		HomePage home = new HomePage();
 		//page.goToFreeSignUp();
